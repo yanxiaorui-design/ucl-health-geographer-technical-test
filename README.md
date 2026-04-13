@@ -21,7 +21,7 @@ ucl-health-geographer-technical-test/
 ├─ README.md
 ├─ requirements.txt
 │
-├─ Technical_Test_Xiaorui_Yan.ipynb
+├─ Technical Test_Xiaorui_Yan.ipynb
 │
 ├─ Input/
 │   ├─ patients.csv
@@ -99,4 +99,11 @@ These files include:
 - `medications_sanitized`
 
 These cleaned files retain the same columns as their corresponding source files, but include only records that passed the quality control and linkage checks applied in Task 1. They were then used as the input for the subsequent analyses in Tasks 2–4.
+
+## How to run
+
+1. Clone or download this repository  
+2. Install the required Python packages listed in `requirements.txt`  
+3. Place the required input data in the `Input/` folder if not already included  
+4. Open and run `Technical Test_Xiaorui_Yan.ipynb` in Jupyter Notebook
 
