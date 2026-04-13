@@ -1,6 +1,15 @@
 # UCL Research Fellow (Health Geographer) Technical Test
-
 This repository contains my submission for the **Research Fellow (Health Geographer)** technical test.
+
+## Main submission file
+
+The main answer to this technical test is provided in the Python notebook:
+
+**`Technical Test_Xiaorui_Yan.ipynb`**
+
+This notebook contains my complete response to the technical test, including the workflow, code, figures, tables, and interpretation for Tasks 1–4.
+
+---
 
 The work is provided as a single Python notebook and covers the following tasks:
 
